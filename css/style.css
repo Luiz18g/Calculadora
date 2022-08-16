@@ -1,0 +1,32 @@
+label{
+    display: block;
+}
+body{
+    background-color: rgb(214, 214, 214);
+}
+h1{
+    text-align: center;
+}
+
+#corpo{
+   border-style: solid;
+   border-radius: 25px;
+   margin:20px;
+   padding: 12px;
+}
+hr{
+    border-color: black;
+}
+input{
+    width: 100%;
+    margin-left: -10px;
+}
+select{
+    width: 100%;
+}
+.divs{
+    padding: 10px;
+}
+h2{
+    margin-top: 50px;
+}
